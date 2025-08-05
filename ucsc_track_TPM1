@@ -1,0 +1,3 @@
+browser position chr8:67,633,336-67,665,473
+track type=bigBed name="Control TPM1 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Tpm1_Control_isoforms.bb
+track type=bigBed name="siRBFOX TPM1 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Tpm1_siRBFOX2_isoforms.bb
