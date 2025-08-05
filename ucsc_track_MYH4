@@ -1,0 +1,3 @@
+browser position chr10:51,885,913-51,909,699
+track type=bigBed name="Control MYH4 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Myh4_Control_isoforms.bb
+track type=bigBed name="siRBFOX MYH4 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Myh4_siRBFOX2_isoforms.bb
