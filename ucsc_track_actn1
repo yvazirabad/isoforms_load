@@ -1,3 +1,9 @@
 browser position chr6:98,971,274-99,112,194
-track type=bigBed name="Control ACTN1 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/bigGenePred_Control_isoforms.bb
-track type=bigBed name="siRBFOX ACTN1 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/bigGenePred_siRBFOX2_isoforms.bb
+track type=bigBed name="Control ACTN1 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Actn1_Control_isoforms.bb
+track type=bigBed name="siRBFOX ACTN1 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Actn1_siRBFOX2_isoforms.bb
+
+track type=bigBed name="Control TPM1 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Tpm1_Control_isoforms.bb
+track type=bigBed name="siRBFOX TPM1 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Tpm1_siRBFOX2_isoforms.bb
+
+track type=bigBed name="Control MYH4 isoforms" description="Ctrl" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Myh4_Control_isoforms.bb
+track type=bigBed name="siRBFOX MYH4 isoforms" description="siRBFOX2" bigDataUrl=https://github.com/yvazirabad/isoforms_load/raw/refs/heads/main/Myh4_siRBFOX2_isoforms.bb
